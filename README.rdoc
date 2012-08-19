@@ -1,6 +1,9 @@
+== Dansguardian config for kids
 My own personal mess.
 Some files duplicated and in wrong spots because dansguardian or distribution
 versions changed.
-
-This is a config from debian 6.0.5
 The settings are safe for younger kids, but have some minor whitelists for things like itunes and microsoft updates.
+
+== Dsitribution info
+This is a config from debian 6.0.5 but should work with any distro.
+The DG version is 2.10.1.1-3 in debian 6.0.5 that I am using.
