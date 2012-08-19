@@ -1,0 +1,6 @@
+My own personal mess.
+Some files duplicated and in wrong spots because dansguardian or distribution
+versions changed.
+
+This is a config from debian 6.0.5
+The settings are safe for younger kids, but have some minor whitelists for things like itunes and microsoft updates.

@@ -1,0 +1,8 @@
+#Exception URLs based on Regular Expressions
+#
+# E.g. 'news' would unblock news.bbc.com etc
+
+# Example
+#news
+id=4f1d57226eaae2be
+airportmania
