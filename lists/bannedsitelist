@@ -109,7 +109,7 @@ badboys.com
 #.Include</etc/dansguardian/lists/blacklists/sports/domains>
 #.Include</etc/dansguardian/lists/blacklists/vacation/domains>
 #.Include</etc/dansguardian/lists/blacklists/violence/domains>
-#.Include</etc/dansguardian/lists/blacklists/virusinfected/domains>
+.Include</etc/dansguardian/lists/blacklists/virusinfected/domains>
 #.Include</etc/dansguardian/lists/blacklists/warez/domains>
 
 # You will need to edit to add and remove categories you want
